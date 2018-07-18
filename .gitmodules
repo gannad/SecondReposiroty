@@ -1,0 +1,3 @@
+[submodule "SecondReposiroty"]
+	path = SecondReposiroty
+	url = git@github.com:gannad/SecondReposiroty.git
